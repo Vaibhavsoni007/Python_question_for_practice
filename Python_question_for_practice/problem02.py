@@ -1,6 +1,6 @@
 # Write a program that calculates the arithmetic mean of two
 # numbers
-
+ 
 num1 = float(input("enter a number"))
 num2 = float(input("enter another number"))
 
